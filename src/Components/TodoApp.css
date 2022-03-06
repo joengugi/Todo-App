@@ -1,0 +1,10 @@
+.hero{
+    justify-content: center;
+    background-color: burlywood;
+}
+
+.input_area{
+    background-color: rgb(219, 204, 204);
+    padding: 8px;
+    box-sizing: border-box; `
+}
